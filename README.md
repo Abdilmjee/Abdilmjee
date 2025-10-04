@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abdul Majeed Altairi
+# Hey there! 👋 I'm AbdulMajeed Altairi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Passionate+Learner" alt="Typing SVG" />
