@@ -71,8 +71,18 @@ Here are some highlights from my work:
   -  Using classification models (Gradient Boosting) to classify system status into different maintenance categories (Normal, Warning, Critical).
   -  Using anomaly detection models (Isolation Forest) to send immediate alerts when unexpected behavior occurs.
 
-- **📖 [Donation platform](https://github.com/Abdilmjee/Donation-platform)**:Donation platform for mosques
+- **📖 [Project web applications](https://github.com/Abdilmjee/)**:web applications .
+Key Responsibilities:
 
+Develop end-to-end web applications using HTML, CSS, JavaScript, React.js, Node.js, and PHP.
+
+Design scalable databases with MySQL and manage API integrations for data exchange.
+
+Implement user authentication, dashboards, and admin control panels tailored to client needs.
+
+Optimize performance, SEO, and security for both front-end and back-end systems.
+
+Manage project deployment and hosting on cloud platforms and web servers.
 
 ## 📈 GitHub Stats
 
